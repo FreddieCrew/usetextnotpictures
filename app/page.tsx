@@ -54,7 +54,7 @@ export default function Home() {
           <span className='title'>No</span>
           <span className='title words' style={{ marginLeft: '10px' }}><CursorComponent wordsArray={wordsArray} interval={200} /></span>
         </div>
-        <h2 className='hero-title mt-9 ml-10 text-xl'>Posting images/screenshots in text can difficult people to help you!</h2>
+        <h2 className='hero-title mt-9 ml-10 text-xl'>Posting images/screenshots instead of text can difficult people to help you!</h2>
 
       </div>
       <div className='sections sectionleft chat-container ml-5'>
